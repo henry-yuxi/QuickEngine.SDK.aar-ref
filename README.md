@@ -1,0 +1,1 @@
+# QuickUSDK.aar-ref
