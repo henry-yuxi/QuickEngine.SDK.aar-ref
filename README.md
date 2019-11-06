@@ -1,1 +1,1 @@
-# QuickUSDK.aar-ref
+# QuickEngine.SDK.aar-ref
